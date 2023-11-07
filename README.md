@@ -1,4 +1,3 @@
 # Projects
 The Projects I Follow
-dymens , eclip , alt , celes
-Myshell, kakro
+Aleo, Aztec, Kakarot, Fuel, Scroll, Linea, nil, Namada
