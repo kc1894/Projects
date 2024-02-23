@@ -1,3 +1,3 @@
 # Projects
 The Projects I Follow
-Aleo, Aztec, Kakarot, Fuel, Scroll, Linea, nil, LayerN, union
+Aleo, Aztec, Kakarot, Fuel, Scroll, Linea, nil, LayerN, union, babylon
